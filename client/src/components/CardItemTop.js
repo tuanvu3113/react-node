@@ -8,11 +8,7 @@ function CardItemTop(props) {
         <Link className='cards__item__link' to={props.path}>
           <figure className='cards__item__pic-wrap' data-category={props.label}>
             <a href='#'>
-              <img
-                className='cards__item__img'
-                alt='Travel Image'
-                src={props.src}
-              />
+              <input type="image" img src={props.src} alt="Travel Image" className='cards__item__img' />
             </a>
           </figure>
           <div className='cards__item__info'>
