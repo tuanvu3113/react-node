@@ -17,45 +17,6 @@ function TopSelling() {
               path='/products?id=500'
               price='$500.00'
             />
-            <CardItemTop
-              src='images/img-2.jpg'
-              text='Lorem ipsum dolor sit amet, in eleifend inimicus elaboraret his, harum efficiendi mel ne. Sale percipit vituperata'
-              label='Áo thun nam'
-              path='/products?id=500'
-              price='$500.00'
-            />
-            <CardItemTop
-              src='images/img-3.jpg'
-              text='Lorem ipsum dolor sit amet, in eleifend inimicus elaboraret his, harum efficiendi mel ne. Sale percipit vituperata'
-              label='Áo thun nam'
-              path='/products?id=500'
-              price='$500.00'
-            />
-          </ul>
-        </div>
-        <div className='cards__wrapper cards__wrapper__top'>
-          <ul className='cards__items'>
-            <CardItemTop
-              src='images/img-4.jpg'
-              text='Lorem ipsum dolor sit amet, in eleifend inimicus elaboraret his, harum efficiendi mel ne. Sale percipit vituperata'
-              label='Áo thun nam'
-              path='/products?id=500'
-              price='$500.00'
-            />
-            <CardItemTop
-              src='images/img-5.jpg'
-              text='Lorem ipsum dolor sit amet, in eleifend inimicus elaboraret his, harum efficiendi mel ne. Sale percipit vituperata'
-              label='Áo thun nam'
-              path='/products?id=500'
-              price='$500.00'
-            />
-            <CardItemTop
-              src='images/img-6.jpg'
-              text='Lorem ipsum dolor sit amet, in eleifend inimicus elaboraret his, harum efficiendi mel ne. Sale percipit vituperata'
-              label='Áo thun nam'
-              path='/products?id=500'
-              price='$500.00'
-            />
           </ul>
         </div>
       </div>
